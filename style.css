@@ -1,0 +1,26 @@
+{}
+.btn,.btn-1,.btn-2{
+    font-size: 15px;
+    background-color: white;
+    color: black;
+    width: 130px;
+    height: 50px;
+    position: relative;
+    left:700px;
+    top: 400px;
+    justify-content: center;
+    border: none;
+    margin: 25px;
+}
+.btn:hover{
+    background: #1ae94a;
+    box-shadow: 0 0 5px #1ae94a,0 0 25px #1ae94a, 0 0 50px #1ae94a,0 0 200px #1ae94a ;
+}
+.btn-1:hover{
+    background: #0b1ec7;
+    box-shadow: 0 0 5px #0b1ec7,0 0 25px #0b1ec7, 0 0 50px #0b1ec7,0 0 200px #0b1ec7 ;
+}
+.btn-2:hover{
+    background: #ff96ad;
+    box-shadow: 0 0 5px #ff96ad,0 0 25px #ff96ad, 0 0 50px #ff96ad,0 0 200px #ff96ad ;
+}
